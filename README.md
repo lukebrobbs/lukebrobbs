@@ -2,7 +2,7 @@
 
 Thanks for stopping by!
 
-I’m currently working on lots of exciting stuff for [Jaguar Land Rover](https://www.jaguarlandrover.com/) :car:
+I’m currently working on lots of exciting stuff for [Truepill](https://www.truepill.com/).
 
 I'm currently working with React, JavaScript, TypeScript daily, and have spent the last year getting my head around Go 🌱
 
