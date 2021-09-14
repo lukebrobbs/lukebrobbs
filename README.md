@@ -10,5 +10,3 @@ I'm always looking for something exciting to work on, and am currently on the ma
 
 ⚡ Fun fact: If I'm not coding, you'll find me singing for [The Mini Big Band](http://www.theminibigband.co.uk/) :microphone:
 
-📫 luke@lukebrobb.in
-
