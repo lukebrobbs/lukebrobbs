@@ -2,7 +2,7 @@
 
 Thanks for stopping by!
 
-I’m currently working on lots of exciting stuff for [Truepill](https://www.truepill.com/).
+I’m currently working on lots of exciting stuff for [xDesign]([https://www.truepill.com/](https://www.xdesign.com/)).
 
 I'm currently working with React, JavaScript, TypeScript daily, and have spent the last year getting my head around Go 🌱
 
